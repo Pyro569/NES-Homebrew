@@ -1,0 +1,7 @@
+; hello_world.asm
+LoadPalettes                     = $C002
+Forever                          = $C03E
+LoadPalettesLoop                 = $C019
+PaletteData                      = $E000
+RESET                            = $C000
+NMI                              = $C041
